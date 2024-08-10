@@ -1,0 +1,7 @@
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\obj\Debug\AdditionCalculator.csproj.AssemblyReference.cache
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\obj\Debug\AdditionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\bin\Debug\AdditionCalculator.exe.config
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\bin\Debug\AdditionCalculator.exe
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\bin\Debug\AdditionCalculator.pdb
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\obj\Debug\AdditionCalculator.exe
+C:\Users\mrmah\OneDrive\Desktop\semester 4\ict 272 web development\2nd project\AdditionCalculator\obj\Debug\AdditionCalculator.pdb
